@@ -1,0 +1,1 @@
+<a href="<?= Routes::{"admin_".$many_entities_route."_show"}($$one_entity->id) ?>"><i class="fa fa-fw fa-undo text-danger"></i></a>

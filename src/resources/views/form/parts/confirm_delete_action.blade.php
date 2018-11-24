@@ -1,0 +1,1 @@
+<a href="<?= Routes::{"admin_".$many_entities_route."_confirmDelete"}($$one_entity->id) ?>" data-toggle="modal" data-target="#delete_confirm"><?= FA::webApplication_Times("fa-fw text-danger",$lform::deleteTooltip()) ?></a>

@@ -1,0 +1,1 @@
+<div class="tab-pane fade {!! $GLOBALS["tab_index"]==0 ? "active in" : "" !!}" id="{!! $GLOBALS["tab_navs"][$GLOBALS["tab_index"]++] !!}">

@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="my code" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb5cd895-5837-4765-b64f-376ff832dca1" name="Default" comment="" />
+    <ignored path="RegiaPNServer.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="RegiaPNServer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/database/seeds/ConfigTableSeeder.php" />
+        <option value="$PROJECT_DIR$/src/resources/views/admin/players/_form.blade.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/DefaultCountryTrait.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/DefaultTimeZoneTrait.php" />
+        <option value="$PROJECT_DIR$/src/resources/views/admin/players/create.blade.php" />
+        <option value="$PROJECT_DIR$/src/resources/views/admin/customers/create.blade.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/WithDefaultCountryTrait.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/WithDefaultTimeZoneTrait.php" />
+        <option value="$PROJECT_DIR$/src/app/Services/Music/IGlobalConfiguration.php" />
+        <option value="$PROJECT_DIR$/src/resources/views/admin/users/show.blade.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/Cliente.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/Config.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/ElemPlaylist.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/Playlist.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/Player.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/Spot.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/Song.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/SystemNotification.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/Update.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/UpdateDownload.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/Auth/User.php" />
+        <option value="$PROJECT_DIR$/src/vendor/mbcraft/laravelutils/src/Mbcraft/Laravel/Database/SoftDeletesCascade.php" />
+        <option value="$PROJECT_DIR$/src/lib/Mbcraft/Encryption/Sca0/Php/SCA0.php" />
+        <option value="$PROJECT_DIR$/src/lib/Mbcraft/Encryption/Sca0/Php/SCA0Impl.php" />
+        <option value="$PROJECT_DIR$/src/lib/Mbcraft/Encryption/Sca0/SCA0Decrypter.php" />
+        <option value="$PROJECT_DIR$/src/lib/Mbcraft/Encryption/Sca0/SCA0Encrypter.php" />
+        <option value="$PROJECT_DIR$/src/lib/Mbcraft/Utils/StringBuffer.php" />
+        <option value="$USER_HOME$/git/piol/src/Mbcraft/Piol/StringBuffer.php" />
+        <option value="$PROJECT_DIR$/src/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/src/lib/Mbcraft/Cryptography/Sca0/SCA0Encrypter.php" />
+        <option value="$PROJECT_DIR$/src/lib/Mbcraft/Cryptography/Sca0/Php/SCA0Utils.php" />
+        <option value="$PROJECT_DIR$/src/app/Services/Music/AbstractEncryptionService.php" />
+        <option value="$PROJECT_DIR$/src/app/Http/Middleware/VerifyCsrfToken.php" />
+        <option value="$PROJECT_DIR$/src/lib/Mbcraft/Cryptography/Sca0/Php/SCA0Impl.php" />
+        <option value="$PROJECT_DIR$/src/tests/TimeZoneTest.php" />
+        <option value="$PROJECT_DIR$/src/tests/TestCase.php" />
+        <option value="$PROJECT_DIR$/src/lib/Mbcraft/Cryptography/Sca0/SCA0Decrypter.php" />
+        <option value="$PROJECT_DIR$/src/tests/SCA0EncodeDecodeTest.php" />
+        <option value="$PROJECT_DIR$/src/config/ftp.php" />
+        <option value="$PROJECT_DIR$/src/app/Http/Controllers/Api/v1_0/ApiController.php" />
+        <option value="$PROJECT_DIR$/src/app/Http/Controllers/Api/v1_0/AccessController.php" />
+        <option value="$PROJECT_DIR$/src/resources/views/admin/layouts/_notification_list.blade.php" />
+        <option value="$PROJECT_DIR$/src/vendor/mbcraft/laravelutils/src/Mbcraft/Laravel/Http/Middleware/BladeExtendedSyntax.php" />
+        <option value="$PROJECT_DIR$/src/app/Models/PlayerNotification.php" />
+        <option value="$PROJECT_DIR$/src/composer.json" />
+        <option value="$PROJECT_DIR$/src/resources/views/admin/layouts/_notification.blade.php" />
+        <option value="$PROJECT_DIR$/src/public/assets/css/lib.css" />
+        <option value="$PROJECT_DIR$/src/public/assets/css/custom_css/chandra.css" />
+        <option value="$PROJECT_DIR$/src/resources/views/admin/layouts/topright_navbar.blade.php" />
+        <option value="$PROJECT_DIR$/src/app/Policies/Auth/UserPolicy.php" />
+        <option value="$PROJECT_DIR$/src/resources/views/admin/users/index.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NamedScopeManager">
+    <scope name="my code" pattern="file[RegiaPNServer]:src/app//*||file[RegiaPNServer]:src/database//*||file[RegiaPNServer]:src/resources/views//*||file[RegiaPNServer]:src/lib//*" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="998" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code SmellPHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpMethodParametersCountMismatchInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="false" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="false" />
+      <sortByType ProjectPane="true" />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegiaPNServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegiaPNServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegiaPNServer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegiaPNServer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RegiaPNServer" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/server.php" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../RegiaPNTools/dist/RBTools.jar" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lib/Mbcraft/Encryption/Sca0/Php" />
+      <recent name="$PROJECT_DIR$/src/lib/Mbcraft/Encryption/Sca0/Java" />
+      <recent name="$PROJECT_DIR$/src/files/upload/clienti/cliente_abc" />
+      <recent name="$PROJECT_DIR$/src/app/Providers" />
+      <recent name="$PROJECT_DIR$/src/lib/Illuminate/Auth" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/files/download/software/MBCRAFT/RegiaPN_Tools/dist" />
+      <recent name="$PROJECT_DIR$/src/files/download/software/MBCRAFT/RegiaPN_Player" />
+      <recent name="$PROJECT_DIR$/src/files/download/software/MBCRAFT/RegiaPN_Tools/data/files/player" />
+      <recent name="$PROJECT_DIR$/src/files/download/software/MBCRAFT/RegiaPN_Player/1.4.3/dist/licenses" />
+      <recent name="$PROJECT_DIR$/src/vendor/mbcraft/laravelutils/src/Mbcraft/Laravel/Http/Middleware" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.TestCase">
+    <configuration default="false" name="MyAuthServiceProvider.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/app/Providers/MyAuthServiceProvider.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="TimeZoneTest.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://radioandbusiness.com/tests/TimeZoneTest.php">
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCase" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="TestCase" file="$PROJECT_DIR$/src/tests/TestCase.php" scope="Class" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Laravel DEBUG" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/src/public" host="local__regiapn" port="8000" router_script="$PROJECT_DIR$/src/server.php" use_router_script="true">
+      <CommandLine workingDirectory="$PROJECT_DIR$/src" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/src" />
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="PHP Built-in Web Server.Laravel DEBUG" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.MyAuthServiceProvider.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.TimeZoneTest.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHPUnit.TestCase" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.TestCase" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.TimeZoneTest.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.MyAuthServiceProvider.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb5cd895-5837-4765-b64f-376ff832dca1" name="Default" comment="" />
+      <created>1462786989894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1468066797198</updated>
+      <workItem from="1462786992123" duration="1818000" />
+      <workItem from="1462797462048" duration="35000" />
+      <workItem from="1462804772086" duration="604000" />
+      <workItem from="1462810173191" duration="326000" />
+      <workItem from="1462812169742" duration="734000" />
+      <workItem from="1462813358234" duration="3577000" />
+      <workItem from="1462861636085" duration="375000" />
+      <workItem from="1462868076670" duration="3988000" />
+      <workItem from="1462896750192" duration="5812000" />
+      <workItem from="1462918030056" duration="132000" />
+      <workItem from="1462949797521" duration="629000" />
+      <workItem from="1462958353013" duration="5190000" />
+      <workItem from="1463058982401" duration="3467000" />
+      <workItem from="1463070105289" duration="1304000" />
+      <workItem from="1463149760539" duration="700000" />
+      <workItem from="1463151113068" duration="4532000" />
+      <workItem from="1463164201680" duration="448000" />
+      <workItem from="1463206705398" duration="8768000" />
+      <workItem from="1463231601144" duration="5418000" />
+      <workItem from="1463252411189" duration="376000" />
+      <workItem from="1463252811226" duration="174000" />
+      <workItem from="1463478263216" duration="1367000" />
+      <workItem from="1465220268930" duration="9418000" />
+      <workItem from="1465240415424" duration="3886000" />
+      <workItem from="1465298141850" duration="82000" />
+      <workItem from="1465405982759" duration="4126000" />
+      <workItem from="1465478155994" duration="931000" />
+      <workItem from="1465588434409" duration="2745000" />
+      <workItem from="1465630848742" duration="3151000" />
+      <workItem from="1465635420380" duration="1935000" />
+      <workItem from="1465640184929" duration="1798000" />
+      <workItem from="1465822797514" duration="1474000" />
+      <workItem from="1465833603978" duration="1014000" />
+      <workItem from="1465842082822" duration="488000" />
+      <workItem from="1465935758037" duration="24000" />
+      <workItem from="1466410990528" duration="1165000" />
+      <workItem from="1466436855999" duration="26000" />
+      <workItem from="1466670808435" duration="3702000" />
+      <workItem from="1468005589735" duration="8000" />
+      <workItem from="1468066797479" duration="913000" />
+      <workItem from="1468072976921" duration="1320000" />
+      <workItem from="1468097909428" duration="508000" />
+      <workItem from="1468225430895" duration="34000" />
+      <workItem from="1468229282313" duration="64000" />
+      <workItem from="1468243550857" duration="1311000" />
+      <workItem from="1468244923623" duration="4955000" />
+      <workItem from="1468250220197" duration="2614000" />
+      <workItem from="1468479573220" duration="688000" />
+      <workItem from="1468480353673" duration="1813000" />
+      <workItem from="1468483142045" duration="55000" />
+      <workItem from="1468488982574" duration="99000" />
+      <workItem from="1468500254607" duration="420000" />
+      <workItem from="1468502858901" duration="80000" />
+      <workItem from="1468504430766" duration="377000" />
+      <workItem from="1468533788215" duration="1466000" />
+      <workItem from="1468591692853" duration="5326000" />
+      <workItem from="1468655878612" duration="5567000" />
+      <workItem from="1468673549423" duration="2435000" />
+      <workItem from="1468680726501" duration="8241000" />
+      <workItem from="1468827044121" duration="7928000" />
+      <workItem from="1468849628817" duration="14404000" />
+      <workItem from="1468907908157" duration="21538000" />
+      <workItem from="1468940426687" duration="4732000" />
+      <workItem from="1468945181223" duration="2399000" />
+      <workItem from="1469002940709" duration="5470000" />
+      <workItem from="1469022129429" duration="605000" />
+      <workItem from="1469024079285" duration="301000" />
+      <workItem from="1469026726512" duration="285000" />
+      <workItem from="1469107672818" duration="1280000" />
+      <workItem from="1469115728750" duration="3992000" />
+      <workItem from="1469209141731" duration="1049000" />
+      <workItem from="1469303959793" duration="20000" />
+      <workItem from="1469487334982" duration="455000" />
+      <workItem from="1469526063275" duration="4908000" />
+      <workItem from="1469801135200" duration="64000" />
+      <workItem from="1469801946810" duration="1367000" />
+      <workItem from="1470043245590" duration="1031000" />
+      <workItem from="1470045849444" duration="499000" />
+      <workItem from="1470046605842" duration="377000" />
+      <workItem from="1470058236942" duration="45000" />
+      <workItem from="1470067652466" duration="2212000" />
+      <workItem from="1470406138358" duration="2570000" />
+      <workItem from="1470472865667" duration="7277000" />
+      <workItem from="1470643385385" duration="1301000" />
+      <workItem from="1470668755449" duration="1162000" />
+      <workItem from="1470671154520" duration="6163000" />
+      <workItem from="1470726996511" duration="4366000" />
+      <workItem from="1470747967249" duration="6211000" />
+      <workItem from="1470755417798" duration="3443000" />
+      <workItem from="1470910131742" duration="1560000" />
+      <workItem from="1470920243440" duration="5009000" />
+      <workItem from="1470934405763" duration="617000" />
+      <workItem from="1471089176424" duration="86000" />
+      <workItem from="1471101076663" duration="615000" />
+      <workItem from="1472681531465" duration="32000" />
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <option name="clearContext" value="false" />
+    <option name="createChangelist" value="false" />
+    <option name="createBranch" value="false" />
+    <option name="commitChanges" value="false" />
+    <option name="mergeBranch" value="false" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="302883000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="998" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3465909" sideWeight="0.45743474" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20068415" sideWeight="0.50974023" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896304" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3942538" sideWeight="0.5425653" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954597" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20068415" sideWeight="0.49025974" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.48376623" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Metrics" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32839224" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22120866" sideWeight="0.49675325" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990878" sideWeight="0.4935065" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/vendor/cartalyst/sentinel/src/Persistences/PersistableInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/cartalyst/sentinel/src/Permissions/PermissionsInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Services/Music/AbstractEncryptionService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Http/Middleware/VerifyCsrfToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Http/Controllers/Api/v1_0/JobsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Http/Controllers/Api/v1_0/UpdatesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Access/Authorizable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/laravel/framework/src/Illuminate/Foundation/Auth/Access/Authorizable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/cartalyst/sentinel/src/Permissions/PermissibleInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/cartalyst/sentinel/src/Users/EloquentUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="29" column="83" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/seeds/UserRolesTableSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Models/Auth/Role.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/TimeZoneTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="84" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/Mbcraft/Cryptography/Sca0/SCA0Encrypter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/Mbcraft/Cryptography/Sca0/Php/SCA0Impl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/Mbcraft/Cryptography/Sca0/Php/SCA0Utils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lib/Mbcraft/Cryptography/Sca0/SCA0Decrypter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tests/SCA0EncodeDecodeTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/mbcraft/piol/src/Mbcraft/Piol/Utils/JavaXmlPropertiesUtils.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="121" column="27" selection-start-line="121" selection-start-column="27" selection-end-line="121" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/ftp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="155" column="13" selection-start-line="155" selection-start-column="13" selection-end-line="155" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/database/migrations/2015_09_14_00000_migration_cartalyst_sentinel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Http/Controllers/Api/v1_0/ApiController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Models/Auth/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-774">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/storage/framework/views/77eff2ed9ca1a1962c873c229bf84da4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/views/admin/layouts/default.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Models/PlayerNotification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="101" column="98" selection-start-line="101" selection-start-column="73" selection-end-line="101" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Models/SystemNotification.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="67" column="14" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/views/admin/layouts/_notification_list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Http/Controllers/Api/v1_0/AccessController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendor/mbcraft/laravelutils/src/Mbcraft/Laravel/Http/Middleware/BladeExtendedSyntax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="114" column="21" selection-start-line="114" selection-start-column="21" selection-end-line="114" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/assets/css/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/assets/css/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/assets/css/front_lib.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/assets/css/lib.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/assets/css/lib.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="6331" column="17" selection-start-line="6331" selection-start-column="17" selection-end-line="6331" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/public/assets/css/custom_css/chandra.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="197" column="22" selection-start-line="197" selection-start-column="22" selection-end-line="197" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/views/admin/layouts/_notification.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="90" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/views/admin/full_menu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/views/admin/layouts/topright_navbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/views/admin/users/_form.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Policies/Auth/UserPolicy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="64" column="45" selection-start-line="64" selection-start-column="45" selection-end-line="64" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/storage/framework/views/713ccb368031e9fdc522990ba70bc27d">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="97" column="47" selection-start-line="97" selection-start-column="47" selection-end-line="97" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/views/admin/users/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="82" column="48" selection-start-line="82" selection-start-column="48" selection-end-line="82" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="133" column="45" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>my code</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="my code" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

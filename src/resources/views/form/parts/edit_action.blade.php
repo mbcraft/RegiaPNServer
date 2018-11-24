@@ -1,0 +1,1 @@
+<a href="<?= Routes::{"admin_".$many_entities_route."_edit"}($$one_entity->id) ?>"><?= FA::webApplication_Pencil("fa-fw text-warning",$lform::editTooltip()) ?></a>
